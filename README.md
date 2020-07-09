@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi,
 
-<!--
-**gee1k/gee1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I'm a front-end and GIS developer.
+- 🌱 I'm learning Swift.
 
-Here are some ideas to get you started:
+### 🔭 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[uPic for macOS](https://github.com/gee1k/uPic)** - A native, powerful, beautiful and simple macOS image and file upload tool. `Opensource`
+- **[uPic for iOS](https://apps.apple.com/us/app/id1510718678)** - A native, powerful, beautiful and simple iOS image and file upload tool.
+
+### 💬 Reach me
+
+- **Twitter**: [geee1k](https://twitter.com/geee1k)
+- **Telegram**: [gee1k](https://t.me/gee1k)
+- **Personal homepage**: [https://svend.cc/](https://svend.cc)
