@@ -1,4 +1,4 @@
-### 👋 Hi,
+👋 Hi, I'm Svend.
 
 - 😄 I'm a front-end and GIS developer.
 - 🌱 I'm learning Swift.
