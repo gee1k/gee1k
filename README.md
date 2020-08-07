@@ -10,6 +10,6 @@
 
 ### 💬 Reach me
 
-- **Twitter**: [geee1k](https://twitter.com/geee1k)
+- **Twitter**: [realSvend](https://twitter.com/realSvend)
 - **Telegram**: [gee1k](https://t.me/gee1k)
 - **Personal homepage**: [https://svend.cc/](https://svend.cc)
