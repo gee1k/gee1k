@@ -11,5 +11,5 @@
 ### 💬 Reach me
 
 - **Twitter**: [realSvend](https://twitter.com/realSvend)
-- **Telegram**: [gee1k](https://t.me/iSvend)
+- **Telegram**: [iSvend](https://t.me/iSvend)
 - **Personal homepage**: [https://svend.cc/](https://svend.cc)
