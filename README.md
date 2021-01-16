@@ -5,7 +5,7 @@
 
 ### 🔭 My Projects
 
-- **[uPic for macOS](https://github.com/gee1k/uPic)** - A native, powerful, beautiful and simple macOS image and file upload tool. `Opensource`
+- **[uPic for macOS](https://apps.apple.com/us/app/upic-hosting-tool/id1549159979)** - A native, powerful, beautiful and simple macOS image and file upload tool. [Opensource](https://github.com/gee1k/uPic)
 - **[uPic for iOS](https://apps.apple.com/us/app/id1510718678)** - A native, powerful, beautiful and simple iOS image and file upload tool.
 
 ### 💬 Reach me
